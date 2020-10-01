@@ -8,7 +8,7 @@ evitar posibles conflictos a la hora de entender paginas de otras personas
 ##### 3.¿Qué pasaría si creamos una página HTML5 usando etiquetas div, en vez de "nav, aside, footer, header" ...?
 - Si utilizaramos la etiqueta div en vez de utilizar las etiquetas reservadas en html 5 para identificar el menu, pie de pagina, o la cabecera, Google nos penalizaria en el posicionamiento CEO
 ##### 4.Mira el video, enumera las etiquetas que no se deben usar, búscalo en internet.
-><acronym>  
+```<acronym>  
 <bgsound>
 <dir>
 <frame>
