@@ -7,7 +7,7 @@ Para que encaso de que un navegador no pueda interpretar atributos css el modern
 #### 4.¿Para qué sirven los prefijos?
 Sirven para que en caso de que un navegador no pueda interpretar directamente un atributo de css, con el prefijo pueda identificar el atributo y interpretarlo
 #### 5.Enumera los prefijos de cada navegador.
->> -moz-  Firefox
+> -moz-  Firefox
 -webkit-	Safari y Chrome
 -o-	Opera
 -khtml-	Konqueror
