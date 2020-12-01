@@ -63,6 +63,7 @@ section{
 }
 .right{
   font-family:'type';
+  color:black;
   width:15%;
   height:80%;
   background-color:antiquewhite;
@@ -78,6 +79,7 @@ section{
 }
 .left{
   font-family:'type';
+  color:black;
   width:15%;
   height:80%;
   background-color:antiquewhite;
