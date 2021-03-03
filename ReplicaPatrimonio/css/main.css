@@ -353,12 +353,28 @@ html{
   padding: 0px;
 }
 body{
-  width:1908px;
+  width:1920px;
   background-color: black;
 }
+header{
+  height: 25px;
+  background-color: white;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
 nav{
-  width: 1908px;
-  height: 90px;
+  width: 1920px;
+  height: 120px;
   margin: 0 auto;
   background-color: blue;
+  margin-bottom: 10px;
+}
+.galeria{
+  height: 300px;
+  background-color: grey;
+}
+#logo{
+  position: relative;
+  width: 350px;
+  margin-left: 450px;
 }
